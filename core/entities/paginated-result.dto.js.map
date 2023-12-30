@@ -1,0 +1,1 @@
+{"version":3,"file":"paginated-result.dto.js","sourceRoot":"","sources":["../../../src/core/entities/paginated-result.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA8C;AAE9C,MAAa,kBAAkB;IAI7B,MAAM,CAAM;IAKZ,KAAK,CAAS;CACf;AAVD,gDAUC;AANC;IAHC,IAAA,qBAAW,EAAC;QACX,WAAW,EAAE,qBAAqB;KACnC,CAAC;;kDACU;AAKZ;IAHC,IAAA,qBAAW,EAAC;QACX,WAAW,EAAE,8BAA8B;KAC5C,CAAC;;iDACY"}

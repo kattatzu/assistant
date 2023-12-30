@@ -1,0 +1,1 @@
+{"version":3,"file":"site.setup.js","sourceRoot":"","sources":["../../../src/core/setup/site.setup.ts"],"names":[],"mappings":";;;AAAA,uDAAyD;AACzD,+BAA4B;AAErB,MAAM,SAAS,GAAG,GAAG,EAAE;IAC5B,OAAO,gCAAiB,CAAC,OAAO,CAAC;QAC/B,QAAQ,EAAE,IAAA,WAAI,EAAC,SAAS,EAAE,eAAe,CAAC;KAC3C,CAAC,CAAC;AACL,CAAC,CAAC;AAJW,QAAA,SAAS,aAIpB"}
